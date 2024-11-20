@@ -1,0 +1,26 @@
+{
+  "name": "group_tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.17.13",
+    "@types/node": "^22.9.1",
+    "@vitejs/plugin-vue": "^5.2.0",
+    "@vitejs/plugin-vue-jsx": "^4.1.0",
+    "@vueuse/core": "^11.2.0",
+    "animate.css": "^4.1.1",
+    "axios": "^1.7.7",
+    "lodash": "^4.17.21",
+    "scss": "^0.2.4",
+    "unocss": "^0.64.1",
+    "vite-plugin-html": "^3.2.2",
+    "vue-router": "^4.4.5"
+  }
+}
